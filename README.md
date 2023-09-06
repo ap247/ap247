@@ -3,7 +3,7 @@
 - 👋 I’m Anish, a developer based on the West Coast
 - 👀 I’m interested in WebDev, ML, Automation, and Product Development
 - 🌱 I’m currently learning React and Javascript to build out my front-end knowledge
-- 👯 I’m looking to collaborate on public good projects with tangible impacts on people and communities
+- 👯 I’m looking to collaborate on public good projects with positive impacts on people and communities
 
 <!--
 **ap247/ap247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
