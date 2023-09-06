@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 👋 I’m Anish, a developer based on the West Coast
 - 👀 I’m interested in WebDev, ML, Automation, and Product Development
 - 🌱 I’m currently learning React and Javascript to build out my front-end knowledge
