@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning React and Javascript to build out my front-end knowledge
 - 🤝 I’m looking to collaborate on public good projects with positive impacts on people and communities
 
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,linux,bash,git,github,md,netlify,nodejs,r,react,vim,vscode,idea,gitlab,postman,atom)](https://skillicons.dev)
+
 <!--
 **ap247/ap247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
