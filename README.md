@@ -4,7 +4,6 @@
 - 🤝 I’m looking to collaborate on public good projects with positive impacts on people and communities
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,linux,bash,git,github,md,netlify,nodejs,r,react,vim,vscode,idea,gitlab,postman,atom)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,linux,aws,bash,firebase,flask,git,github,md,netlify,nextjs,nodejs,r,react,tailwind,vim,vscode)](https://skillicons.dev)
 <!--
 **ap247/ap247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
